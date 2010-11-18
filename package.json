@@ -1,0 +1,6 @@
+{
+    "id": "jid0-S5pG3NsIyTTPC2CqUriavdtITXU", 
+    "main": "gloda-json-api/server/main", 
+    "name": "gloda-json-api", 
+    "description": "A JSON API served via http and so only via localhost."
+}
